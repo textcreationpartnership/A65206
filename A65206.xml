@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from one of the trained-bands now in the armie vnder the red and vvhite regiment to his vvife in London sent from Farnham-Castle, Novemb. 2, 1643.</title>
+            <author>A. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65206</idno>
+            <idno type="STC">Wing W1</idno>
+            <idno type="STC">ESTC R14555</idno>
+            <idno type="EEBO-CITATION">13337605</idno>
+            <idno type="OCLC">ocm 13337605</idno>
+            <idno type="VID">99122</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99122)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 479:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from one of the trained-bands now in the armie vnder the red and vvhite regiment to his vvife in London sent from Farnham-Castle, Novemb. 2, 1643.</title>
+                  <author>A. W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: A. W.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:99122:1"/>
+            <pb facs="tcp:99122:1" rendition="simple:additions"/>
+            <p>A LETTER From one of the TRAINED-BANDS Now in the ARMIE Vnder the Red and VVhite REGIMENT, To his VVife in LONDON.</p>
+            <p>Sent from FARNHAM-Caſtle, Novemb. 2. 1643.</p>
+            <p>Printed in the Yeare, 1643</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99122:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:99122:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Loving Wife;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I looke backe upon my wayes, and conſider from what happineſſe I am fallen, and into what miſery I plun<g ref="char:EOLhyphen"/>ged: I am ſo oppreſt with ſorrow and grief (that to take up the words of the Pſalmiſt) <hi>My ſoule is even melted with heavineſſe.</hi> O how it pierces me to the very heart, to thinke how I have diſhonoured God, diſobeyed my King, ſcandalized my Religion, betrayed my Faith, diſgraced my Friends, ſhamed my Country, undone my Family, and hazarded my owne ſalvation. So that I have made my ſelfe a laughing ſtock unto mine Enemies, and unworthy of the leaſt pitty. The hea<g ref="char:EOLhyphen"/>vens frowne upon me, hell triumphs, and the earth caſts me off as unworthy of her nouriſhment, My Conſcience flyes in my face and will not ſuffer me to take any reſt, So that even the Curſe of <hi>Cain</hi> is fallen upon me, becauſe I thirſted to ſpill my Brothers blood, that I am forced from mine abode, and am be<g ref="char:EOLhyphen"/>come as a fugitive and vagabond on the earth: and as I accounted it a note of malignancy, to deſire Peace, and
+<pb n="2" facs="tcp:99122:3" rendition="simple:additions"/> would have no Peace with others, ſo now my ſoule is filled with naught but Warre. So unhappy is that ſoule whom God forſakes, and miſery is ſure to at<g ref="char:EOLhyphen"/>tend the diſobedient man. Where ſinne dwels, there is trouble, and though it may ſeeme never ſo ſweet in the committing, it will prove full of <hi>bitterneſse in the end. 2. Sam.</hi> 2. 26.</p>
+            <p>How ſuddenly and ſtrangely is my ſtate and con<g ref="char:EOLhyphen"/>dition altered? upon what a precipice doe they ſtand that truſt on earthly things? how ſoone is the face of them changed? In a moment is our plenty turned in<g ref="char:EOLhyphen"/>to ſcarcity, mirth into ſorrow, peace into war, riches into poverty, liberty into bondage, order into con<g ref="char:EOLhyphen"/>fuſion, loyalty into rebellion, and wiſedome into folly. Hath not God in his juſt judgement recom<g ref="char:EOLhyphen"/>penced my wayes on my owne head? For I that here<g ref="char:EOLhyphen"/>tofore wallowed, as it were in pleaſure and delight (having God ſcarcely at all in my thoughts) am now acquainted with naught but trouble. I that ſent my ſervant like a ſheepe to the ſlaughter (cheating his parents of their ſon and their money both at once) am now come to be ſacrificed in the ſame manner my ſelfe; I that have had ſervants at my command, am now my ſelfe commanded rather like a ſlave then a ſervant. I that accounted Charity a Popiſh vertue, am now glad to be relieved by the Charity of others; and whereas I have beene able to give to others, I am now oftentimes by neceſſity compelled to beg my bread. I that had a houſe to hide my head in, am now expoſed to all extremities of weather, and am faine to imbrace the cold earth for my Lodging. I that rejoy<g ref="char:EOLhyphen"/>ced
+<pb n="3" facs="tcp:99122:3" rendition="simple:additions"/> at other m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns miſeries, am now become more mi<g ref="char:EOLhyphen"/>ſerable then they. I that curſed, the King in my thoughts, am now filled with naught but croſſes. I that in the pride of my heart, ſaid, I ſhould never be moved, am now brought to a very low eſtate, having (as <hi>Eſau</hi>) ſold his birth-right for a meſſe of pottage, paſſed away my eſtate for the Publique Faith and I know not what; and brought my perſon in danger every minute to be loſt. I that made a God as it were of the Parlia<g ref="char:EOLhyphen"/>ment, have found them to be but men, and the words of the Pſalmiſt to be true. <hi>That it is better to truſt in the Lord, than to put any confidence in Princes. I</hi> that deſpi<g ref="char:EOLhyphen"/>ſed to receive correction, feel now the heavy hand of God upon me. <hi>I</hi> that contemned and mocked at Gods Miniſters, wilfully hardning my ſelfe againſt the truth, am now given over to a reprobate ſenſe, that <hi>I</hi> ſhould onely beleeve a lye. My feet were ſwift to ſhed blood, therefore as it followes, <hi>Rom.</hi> 3. 16. deſtruction and miſery are in my wayes. For theſe &amp; other ſins is the wrath of God come upon me &amp; my fellow-Citi<g ref="char:EOLhyphen"/>zens; that he hath even ſuffered the Divell to have his will of us, who hath forced us (as he would as ſerved <hi>Job</hi>) to curſe God to his face: Hath he not beene in our City and Army-Prophets, as he was in <hi>Ahabs</hi> foure hundred and fifty, a lying ſpirit, teaching us Rebellion and Sedition, inciting us to plunder and take away other mens goods, to prophane Gods houſe, to adulterate his worſhip, to impriſon his meſſengers, to <hi>reproach the footſteps of his Anointed, Pſal</hi> 89. 51. to abuſe his Word, to Covenant againſt
+<pb n="4" facs="tcp:99122:4" rendition="simple:additions"/> him and our King, that neither ſhould rule over us: to contemne his ordinances, to perſecute his ſervants, to wrong our neighbours, to breake the Lawes, to o<g ref="char:EOLhyphen"/>verthrow the power of the Magiſtrate: every man ta<g ref="char:EOLhyphen"/>king the ſword into his owne hand, to betray and kill one another, thinking therby to do God good ſervice, and all this for the advancement of Religion, &amp; as the only way to make an happy Reformation. But our ſad experience doth ſufficiently prove the contrary, &amp; they may as wel perſwade men, that the next way to come to Heaven is through Hell by breaking Gods Comman<g ref="char:EOLhyphen"/>dements. I ſhould have been loath to have layed open my owne guilt and diſcovered my nakedneſſe, but that <hi>I</hi> hope others would be warned by my example, to have a care leſt they be drawn away as <hi>I</hi> was) with faire pretenens, to the indangering both of their bo<g ref="char:EOLhyphen"/>dies and ſoules.</p>
+            <p>To conclude, <hi>I</hi> may even bewaile the unhappy e<g ref="char:EOLhyphen"/>ſtate of my Country at this preſent, in the words of the Prophet <hi>Ieremiah,</hi> in <hi>Lament. O Lord, how is our gold become dim, how is the most fine gold changed? our monies are parted from us, and we are like the hungry man.</hi> Iſaiah 29. 8. <hi>He dreameth, and behold, he eateth, but he awaketh, and his ſoule is empty;</hi> So we for the mo<g ref="char:EOLhyphen"/>nies that we have exhauſted, dreamed of mountaines of gold, but being awakt, we find them no other then the price of blood, and ſums layd out to purchaſe our own miſery. Our beauty is turned to aſhes, the glory &amp; honour of our Nation is quite eclipſed, &amp; we that were once the admiration &amp; envy of other Nations, are now become their laughing ſtock and ſcorne. The
+<pb n="5" facs="tcp:99122:4" rendition="simple:additions"/> young children aske bread and no man breaketh it unto them, the Souldier ſweeping all away, lea<g ref="char:EOLhyphen"/>ving nothing behind him but penury and want. They that did feed delicately are deſolate in the ſtreets, they that were brought up in ſcarlet, imbrace dung<g ref="char:EOLhyphen"/>hills. Our Nobility, and Gentry, are deſpiſed and trampled upon by vile perſons; and though they dwelt in houſes of <hi>Cedar,</hi> are forced to lye in a loath<g ref="char:EOLhyphen"/>ſome priſon. The anger of the Lord hath divided us, he will no more regard us, we have not reſpected the perſons of the Prieſts, nor reverenced our Elders. For we have hated their perſons, ſlighted their meſſage, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>equeſtred their meanes, and not ſuffered them to paſſe the ſtreets in quiet. For which our In<g ref="char:EOLhyphen"/>heritance is turned to ſtrangers, our houſes to ali<g ref="char:EOLhyphen"/>ens, which are Schiſmatiks, and Separatiſts. Other men enter into our poſſeſſions, &amp; take our dwellings from us without a cauſe. We are Orphans and father<g ref="char:EOLhyphen"/>leſſe, our mothers are as widdowes. We have drunke our water for our mony, &amp; out wood is ſold unto us; our goods are taken from us at other mens pleaſure, and for our mony reſtored to us againe. Our necks are under perſecution, we labour and have no reſt, what we take paines for, others injoy, and reape the fruit of our labours; we are made ſlaves unto their wills, who command not only our ſervants and our eſtates, but even our lives alſo. Servants have ruled over us, and there is none that doth deliver us out of their hands. The joy of our heart is ceaſed, our dance is tur<g ref="char:EOLhyphen"/>ned in to mourning, all our delights are paſſed away, and we are compaſſed about with ſorrow on every
+<pb n="6" facs="tcp:99122:5" rendition="simple:additions"/> ſide. The Crowne is fallen from our head, the King who was our glory is driven from us, and is baniſhed from his owne habitation his Palace<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; is left deſolate, and ſcarce any man dwells therein; Our Temples are ſhut up that we have even forgot how to praiſe thy Name. We have nothing but complaining in our ſtreets, and we goe mourning all the day long. Woe unto us that we have ſinned. For this, our heart is faint, our eyes are dim. Turne thou us unto thee O Lord, and we ſhall be turned, renue our dayes as of old. Remove thy judgements, forgive our ſinnes, Unite our hearts, cure our wounds, open our eyes, that now at the laſt we may behold thoſe things that concerne our Peace. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Your ever loving Husband A. W.</signed>
+               <dateline>From Farnham Caſtle, <date>Novem. 2. 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
